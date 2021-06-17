@@ -16,7 +16,7 @@
         ]);
 
         var options = {
-          title : 'Reel GDP Year',
+          title : 'Reel GDP Growth',
           vAxis: {title: 'Growth'},
           hAxis: {title: 'Year'},
           seriesType: 'bars',
