@@ -1,0 +1,44 @@
+<html>
+  <head>
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script type="text/javascript">
+      google.charts.load('current', {'packages':['bar']});
+      google.charts.setOnLoadCallback(drawChart);
+
+      function drawChart() {
+      var data = google.visualization.arrayToDataTable([
+        ['USD Millions', 'Country'],
+        ['European Union',     15597],
+        ['United States',       5779],
+        ['Japan',               5187],
+        ['Korea, Republic of',  3816],
+        ['Vietnam',             2296],
+        ['Singapore',           2165],
+        ['United Kingdom',      1917],
+        ['Mexico',              1369],
+        ['Switzerland',         1087],
+        ['Malaysia',            1077],
+        ['Canada',               660],
+        ['Turkey',               425],
+        ['India',                348],
+        ['Indonesia',            312]
+
+      ]);
+
+      var options = {
+          chart: {
+            title: 'Trade impact of the COVID-19 Epidemic(USD Millions)',
+            subtitle: 'Top 15 most affected economies',
+          }
+        };
+
+        var chart = new google.charts.Bar(document.getElementById('columnchart_values'));
+
+        chart.draw(data, google.charts.Bar.convertOptions(options));
+      }
+    </script>
+  </head>
+  <body>
+    <div id="columnchart_values" style="width: 700px; height: 500px;"></div>
+  </body>
+</html>
