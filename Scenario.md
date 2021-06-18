@@ -4,5 +4,5 @@ Everyone has experienced difficulties during the pandemic, regardless of whether
 # Scenario 2
 Another citizen affected by this process is a woman living in the United States and making wedding preparations with her boyfriend. The couple, who wants all their wishes and thoughts to be in a perfect way, is making preparations. The woman ordered the wedding dress of her favorite model from a wedding dress shop and is waiting for the wedding dress to reach her hand. The wedding dress is produced in China and spread all over the world. Since the virus originated in China, China, which closed its borders and did not send products to any country, did not send this wedding dress either. The woman, whose wedding dress did not reach her almost a month after her order, witnessed how the virus affected even a modest citizen.
 
-
+# So
 As seen in these stories, with the emergence of the virus, not only the countries but also the ordinary citizens were affected by this situation, and as a result of the closure of the borders, the interactions that the countries could not make with each other affected everyone badly.
