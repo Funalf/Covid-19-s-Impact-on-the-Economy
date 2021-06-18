@@ -7,5 +7,4 @@ by the economy through interviews and news articles made to producers. Although 
 of the problem.
 
 # B)
-While doing this project, I need to examine how these effects have been in the world and Turkey. I will examine the news and articles written on this subject. I will make 
-comparisons by looking at the past and the pandemic process. Mostly, I will reach the data by examining the researches made on the internet.
+While doing this project, I need to examine how these effects are in the world and Turkey. I will review the news and articles written on this subject. I will make comparisons by looking at the past and the pandemic process. I will mostly reach the data by examining the research done on the internet. By reading the articles written on it, I will compare the economy of the past years with the state of the economy of the countries during the pandemic process. I will compare how much they have affected in which situations. They would not be affected by this process, or after what situations they could return to their old state, I will have examined what the recovery of the economy depends on.
