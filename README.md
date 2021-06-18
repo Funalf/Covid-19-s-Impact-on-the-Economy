@@ -6,6 +6,10 @@ In this project, research was conducted on how the pandemic affected the economy
 # Data
 Data and data tables were obtained from published news articles, research papers and articles. The obtained data has been visualized with Google chart.
 
+## This is the presentation link: 
+
+
+
 # References
 
 Voyvoda E., Yeldan A.E.(May, 2020). *COVİD-19 Salgının Türkiye Ekonomisi Üzerine Etkileri ve Politika Alternatiflerinin Makroekonomik Genel Denge Analizi*. Retrieved from https://yeldane.files.wordpress.com/2020/05/covid_voyvodayeldan_v2_31mayis.pdf
