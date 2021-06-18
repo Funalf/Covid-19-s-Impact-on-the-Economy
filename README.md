@@ -16,7 +16,10 @@ Data and data tables were obtained from published news articles, research papers
 ## References
 
 Voyvoda E., Yeldan A.E.(May, 2020). *COVİD-19 Salgının Türkiye Ekonomisi Üzerine Etkileri ve Politika Alternatiflerinin Makroekonomik Genel Denge Analizi*. Retrieved from https://yeldane.files.wordpress.com/2020/05/covid_voyvodayeldan_v2_31mayis.pdf
+
 Anonymous (March, 2020). *EKONOMİK GÖRÜNÜM: COVİD-19 KARANTİNADAKİ EKONOMİLER*. Retrieved from https://www.eulerhermes.com/tr_TR/ekonomik-arastirmalar/ekonomik-gorunum-raporlari/ekonomik-gorunum-covid-19-karantinadaki-ekonomiler.html
+
 Balcı Y., Çetin G. (May,2020). *COVID-19 PANDEMİSİNİN TÜRKİYE EKONOMİSİNDE İSTİHDAM VE ÇALIŞMA HAYATI ÜZERİNDEKİ ETKİLERİ: SORUNLAR VE ÇÖZÜM ÖNERİLERİ*. Retrieved from https://ticaret.edu.tr/uploads/haberler/1374/%C4%B0stihdam%20Raporu.pdf
+
 Bashir N. (Mar, 07, 2020). *Economic Impact of Covid-19*. Retrieved from https://worldaffairspak.com/economic-impact-of-covid-19/
 
