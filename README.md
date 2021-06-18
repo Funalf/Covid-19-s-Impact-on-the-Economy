@@ -9,7 +9,7 @@ In this project, research was conducted on how the pandemic affected the economy
 ## Data
 Data and data tables were obtained from published news articles, research papers and articles. The obtained data has been visualized with Google chart.
 
-## *This is the presentation link: 
+## *This is the presentation link: https://www.youtube.com/watch?v=2qw3Fg7rW_M
 
 
 
